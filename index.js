@@ -16,4 +16,5 @@ let user = {
   surName: 'Sliesar',
 };
 test;
+wsws;
 console.log(user);
