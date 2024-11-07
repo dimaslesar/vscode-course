@@ -15,4 +15,5 @@ let user = {
   name: 'Dima',
   surName: 'Sliesar',
 };
+test;
 console.log(user);
