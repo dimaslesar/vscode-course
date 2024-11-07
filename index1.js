@@ -1,2 +1,1 @@
-const num = 32;
-console.log(num);
+console.log('Test 2222');
