@@ -19,4 +19,5 @@ test;
 
 wsws;
 let yulia = 20;
+
 console.log(user);
