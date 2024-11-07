@@ -10,4 +10,9 @@ getUser();
 
 let num = 40;
 const nums = 300000;
-let user = {};
+
+let user = {
+  name: 'Dima',
+  surName: 'Sliesar',
+};
+console.log(user);
