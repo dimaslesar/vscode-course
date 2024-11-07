@@ -7,17 +7,3 @@ const getUser = async () => {
   }
 };
 getUser();
-
-let num = 40;
-const nums = 300000;
-
-let user = {
-  name: 'Dima',
-  surName: 'Sliesar',
-};
-test;
-
-wsws;
-let yulia = 20;
-
-console.log(user);
